@@ -1,4 +1,4 @@
-<img align="center" src="[https://source.unsplash.com/1600x400/?coding,technology](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)" alt="Banner" width="100%" />
+<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg" alt="Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Simanchala Sethi</h1>
 <h3 align="center">Backend Developer | AI/ML & DevOps Enthusiast</h3>
 <p align="center">I specialize in building scalable, high-performance applications and am currently expanding my expertise in AI/ML and DevOps.</p>
