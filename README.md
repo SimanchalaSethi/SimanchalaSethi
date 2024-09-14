@@ -1,5 +1,5 @@
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg" alt="Banner" width="100%" />
-<h1 align="center">Hi 👋, I'm Simanchala Sethi</h1>
+<h1 align="center">Hey there! 👋 I'm Simanchala Sethi, Crafting Code with Passion</h1>
 <h3 align="center">Backend Developer | AI/ML & DevOps Enthusiast</h3>
 <p align="center">I specialize in building scalable, high-performance applications and am currently expanding my expertise in AI/ML and DevOps.</p>
 <img align="right" src="https://static.vecteezy.com/system/resources/previews/006/362/890/original/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg" alt="Coding" width="400">
